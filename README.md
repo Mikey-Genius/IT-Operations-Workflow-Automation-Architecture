@@ -1,2 +1,2 @@
-# knust-it-operations-architecture
-Professional system architecture diagram for KNUST University IT Services Centralized Operations and Reporting Platform
+Centralised IT Operations Architecture
+Professional system architecture diagram for Universities IT Services Centralized Operations and Reporting Platform
